@@ -1,0 +1,64 @@
+.navigation {
+    display: flex;
+    flex-direction: row;
+    gap: 74px;
+    width: 1440px;
+    height: 83px;
+    top: 24px;
+    right: 80px;
+    bottom: 24px;
+    left: 80px;
+}
+.Account {
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 56px;
+    width: 279px;
+    height: 26px;
+}
+
+.Image {
+    width: 35px;
+    height: 33.19px;
+    top: 63px;
+    color: #36485C;
+}
+.feat {
+    width: 67px;
+    height: 24px;
+    color: #36485C;
+}
+.pric {
+    width: 53px;
+    height: 24px;
+    color: #36485C;
+}
+.enter {
+    width: 79px;
+    height: 24px;
+    color: #36485C;
+}
+.career {
+    width: 61px;
+    height: 24px;
+    color: #36485C;
+}
+.open {
+    width: 133px;
+    height: 24px;
+    color: #36485C;
+}
+.circle {
+    width: 26px;
+    height: 26px;
+    color: #36485C;
+}
+.text {
+    width: 846px;
+    height: 304px;
+    top: 127px;
+    left: 297px;
+    gap: 24px;
+}
+    
+
