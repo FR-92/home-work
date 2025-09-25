@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 .header {
     display: flex;
     justify-content: space-between;   
@@ -28,3 +32,54 @@
     gap: 56px;
     height: 35px;
 }
+.start_1 {
+    text-align: center;
+    font-size: 64px;
+}
+.paraqraf {
+    font-size: 18px;
+    color: #172026;
+    height: 56px;
+    text-align: center;
+}
+.click {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 20px;
+}
+.button-primary {
+    background-color: #4328EB;
+    color: white;
+    gap: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    padding-top: 16px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    border-radius: 4px solid;
+}
+.button-outline {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    color: #4328EB;
+    gap: 12px;
+    font-weight: 500px;
+    padding-top: 16px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    border-radius: 2px solid;
+}
+img {
+   color: #D5CFFA80;
+   padding: 6px;
+   border-radius: 30px;
+   gap: 10px;
+}
+
+
+
+
