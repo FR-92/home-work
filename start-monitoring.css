@@ -79,6 +79,30 @@ img {
    border-radius: 30px;
    gap: 10px;
 }
+.image {
+    position: relative;
+    background-image: url(Images/Gradient\ 2.png);
+}
+.image-web {
+    position: relative;
+    z-index: 1;
+}
+.image-mobile {
+    position: absolute;
+    z-index: 2;
+    border-radius: 16px;
+    top: 270px;
+    right: 50px;
+}
+.advertising {
+    display: flex;
+    justify-content: space-between;
+    width: 1280px;
+    height: 64px;
+    color: #FFFFFF;
+}
+
+
 
 
 
